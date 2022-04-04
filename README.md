@@ -21,10 +21,12 @@ The refactored code had a runtime of about .046 seconds for both sets of data, a
 
 ## Conclusions
 
-### Advantages of Refactoring Code
+### General Advantages and Disadvantages of Refactoring Code
 
 Going through your code and making changes for speed, efficiency, file size, and elegance is advantageous for obvious reasons such as making the code run faster and use less memory. What is less obvious is the fact that simplifying code and adding clear and thorough comments will save you time when you revisit the code for other uses or in further refactoring. Some future use will have a much easier time following your logic and understanding what each line in your code does. One disadvantage is the fact that your changes may break the functionality of the code or open up several 'cans of worms' revealing problems and insufficiencies that will need to be worked out.
 
 One disadvantage of refactoring code is the time and effort it can take. Delivering a project on time with code that works but may not the best is much better than a late project with beautifule code. 
+
+### Advantages and Disadvantages of Refactoring This Code
 
 Specifically for the code in this project, that advantage of refactoring is the speed at which the code runs through the data. This increase in speed will allow the code to work with much larger data sets, greatly increasing its value as a tool for analysis. The original code is less advanced and easier to visualize as it loops through the data where arrays populate a table is way that is hard to mentally follow as a step-by-step process.
