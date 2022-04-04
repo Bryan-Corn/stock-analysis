@@ -9,9 +9,9 @@ Steve asked for a way to help him evaluate stock so he can avise his parents on 
 ### Analysis of Code
 To make the code more efficient, arrays were set up so nested loops aren't going through the dataset several times. The old code had a runtime of about .38 seconds for both 2017 and 2018 stock datasets:
 
-![image](*)
+![image](https://github.com/Bryan-Corn/stock-analysis/blob/main/Resources/VBA_Challenge_2017_Old_Code.png)
 
-![image](*)
+![image](https://github.com/Bryan-Corn/stock-analysis/blob/main/Resources/VBA_Challenge_2018_Old_Code.png)
 
 The refactored code had a runtime of about .046 seconds for both sets of data, about 8 times faster:
 
