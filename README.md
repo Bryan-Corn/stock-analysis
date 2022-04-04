@@ -15,6 +15,6 @@ To make the code more efficient, arrays were set up so nested loops aren't going
 
 The refactored code had a runtime of about .046 seconds for both sets of data, about 8 times faster:
 
-![image](*)
+![image](https://github.com/Bryan-Corn/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
-![image](*)
+![image](https://github.com/Bryan-Corn/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
