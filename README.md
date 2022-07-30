@@ -1,3 +1,4 @@
+![image](https://github.com/Bryan-Corn/stock-analysis/blob/main/Resources/stonks.png)
 # stock-analysis
 VBA module for bootcamp
 ---
